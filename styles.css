@@ -12,6 +12,12 @@
     font-size: smaller;
 }
 
+.footers {
+    font-size: smaller;
+    font-style: italic;
+    color: darkgrey;
+}
+
 .recipe-title {
     background-color: coral;
 }
