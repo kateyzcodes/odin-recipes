@@ -1,4 +1,25 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.headings {
+    font-family: Helvetica, monospace;
+    color: darkblue;
+}
+
+.descriptions {
+    font-style: italic;
+    font-size: smaller;
+}
+
 .recipe-title {
-    background-color: aquamarine;
-    color: antiquewhite;
+    background-color: coral;
+}
+
+.ingredients {
+    background-color: lightpink
+}
+
+.steps {
+    background-color: lightblue;
 }
