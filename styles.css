@@ -12,9 +12,7 @@
     font-size: smaller;
 }
 
-.footers {
-    font-size: smaller;
-    font-style: italic;
+.descriptions.footers {
     color: darkgrey;
 }
 
